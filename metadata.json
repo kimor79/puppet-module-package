@@ -1,0 +1,17 @@
+{
+  "name": "igromik-package",
+  "version": "0.0.1",
+  "author": "igromik",
+  "summary": "Wrapper around the package resource type",
+  "license": "BSD",
+  "source": "git@github.com:kimor79/puppet-module-package.git",
+  "project_page": "https://github.com/kimor79/puppet-module-package",
+  "issues_url": "https://github.com/kimor79/puppet-module-package/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
