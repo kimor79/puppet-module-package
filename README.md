@@ -35,7 +35,7 @@ In hiera:
 ```
 package::package:
   bash:
-    version: 4.2.theonewiththeshellshockpatches
+    ensure: 4.2.theonewiththeshellshockpatches
   git: {}
 ```
 
